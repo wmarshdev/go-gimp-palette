@@ -1,3 +1,5 @@
+![go build workflow status](https://github.com/wmarshdev/go-gimp-palette/actions/workflows/go.yml/badge.svg)
+
 # go-gimp-palette
 Loader for the GIMP palette format
 
